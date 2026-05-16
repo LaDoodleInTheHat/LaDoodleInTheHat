@@ -2,4 +2,4 @@
 
 ---
 
-![GitHubCard](https://githubcard.com/LaDoodleInTheHat.svg)
+[![GitHubCard](https://githubcard.com/LaDoodleInTheHat.svg)](https://githubcard.com/LaDoodleInTheHat.svg?d=N0Mo7S0S)
