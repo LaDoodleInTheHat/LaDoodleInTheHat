@@ -2,4 +2,6 @@
 
 ---
 
-![GitHubCard](https://githubcard.com/LaDoodleInTheHat.svg?d=ZsZz_Ln9)
+# LaDoodleInTheHat
+
+I'm a proud JS coder and a fan of create mod minecraft.
