@@ -3,4 +3,4 @@
 
 # LaDoodleInTheHat
 
-I'm a proud JS coder and a fan of create mod minecraft.
+I love rust and am currently working on [limonite](https://github.com/LimoniteMC)
